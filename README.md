@@ -97,3 +97,14 @@ Urllib is a package that collects several modules for working with URLs, such as
 
 
 2)https://realpython.com/urllib-request/
+
+
+## 5)RoboBrowser
+
+***RoboBrowser is a simple, Pythonic library for browsing the web without a standalone web browser. RoboBrowser can fetch a page, click on links and buttons, and fill out and submit forms. If you need to interact with web services that don’t have APIs, RoboBrowser can help.***
+
+***RoboBrowser combines the best of two excellent Python libraries: Requests and BeautifulSoup.***
+
+***References***
+
+1)https://robobrowser.readthedocs.io/en/latest/readme.html
